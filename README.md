@@ -1,6 +1,29 @@
-# beta-saber
-A beat saber knock-off made using Processing and Terminal. Beat maps are automatically generated using Minim. Songs are downloaded using Youtube-dl and Spotify-dl. The Spotify-web-API java wrapper is also used. 
+# beta-saber 
 
-MySketch2.java launches the beta saber tutorial, where the speed, color, and sensitivity can be changed. From here the song can be typed in, and clicking either the youtube or spotify button launches MySketch.java. 
+- [DESCRIPTION](#description)
+- [INSTALLATION](#installation)
+- [USAGE](#usage)
+- [BUGS](#bugs)
+- [COPYRIGHT](#copyright)
 
-MySketch.java launches the beta saber game by first downloading the typed song from youtube or spotify (whatever was clicked). After the download is finished, the beat map is generated.
+# DESCRIPTION
+
+**beta-saber** is a beat saber knock-off made using Processing and bash. Beat maps are automatically generated using Minim. Songs are downloaded using Youtube-dl and Spotify-dl. The Spotify-web-API java wrapper is used in tandem with Spotify-dl. 
+
+# INSTALLATION
+
+**youtube-dl**
+
+Please visit https://github.com/ytdl-org/youtube-dl for information on installing youtube-dl.
+
+**spotify-dl**
+
+Please visit https://github.com/SathyaBhat/spotify-dl for information on installing spotify-dl.
+
+**spotify-web-api-java**
+
+Please visit https://github.com/spotify-web-api-java/spotify-web-api-java for information on installing the Spotify Api Java Wrapper.
+
+**Processing**
+
+Please visit https://processing.org/ to download Processing 3.5.4 and the necessary libraries.
