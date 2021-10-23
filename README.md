@@ -38,26 +38,35 @@
 **Libraries**
 
   The following Processing libraries are used:
-  - Sound: music playback
-  - Video: color tracking for "sabers"
-  - Minim: Asynchronous audio analysis
-  - ControlP5: tutorial dashboard
+  - **Sound**: music playback
+  - **Video**: color tracking for "sabers"
+  - **Minim**: Asynchronous audio analysis
+  - **ControlP5**: tutorial dashboard
 
   The following Terminal libraries are used:
-  - bash: shell 
-  - youtube-dl: download off youtube
-  - spotify-dl: download off spotify
-  - ffmpeg: convert from m4a to mp3
+  - **bash**: shell 
+  - **youtube-dl**: download off youtube
+  - **spotify-dl**: download off spotify
+  - **ffmpeg**: convert from m4a to mp3
 
   The following Java libraries are used:
-  - Color: color
-  - Util: ArrayList
-  - File: manage download songs
-  - PrintWriter: Java bash wrapper
+  - **Color**: color
+  - **Util**: ArrayList
+  - **File**: manage download songs
+  - **PrintWriter**: Java bash wrapper
+  - **io**: InputStream and OutputStream needed for PrintWriter
 
   # USAGE
   
-  **
+  **ClientCredentialsExample.java**
+  - Use Client ID and Client Secret to obtain temporary access token needed for searching Spotify
+
+  **SearchTracksExample.java**
+  - Use access token to search Spotify for song URL. 
+
+
+
+
   
 
 
