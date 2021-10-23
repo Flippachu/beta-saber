@@ -1,28 +1,11 @@
 import processing.core.*;
 import controlP5.*;
-import org.openkinect.freenect.*;
-import org.openkinect.processing.*;
 import processing.video.*;
-
-
-import javax.sound.*;
-import javax.swing.*;
-
 import java.awt.Color;
-import java.awt.GridBagConstraints;
-import java.awt.Window;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import java.io.File;
-
-import java.io.PrintWriter;
-
 import processing.sound.*;
 import java.util.*;
 import ddf.minim.*;
-import ddf.minim.analysis.*;
-import ddf.minim.spi.*;
-//import de.voidplus.leapmotion.*;
 
 public class MySketch2 extends PApplet {
 
