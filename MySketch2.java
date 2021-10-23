@@ -1,11 +1,11 @@
-import processing.core.*;
+import ddf.minim.*;
 import controlP5.*;
 import processing.video.*;
+import processing.core.*;
+import processing.sound.*;
 import java.awt.Color;
 import java.io.File;
-import processing.sound.*;
 import java.util.*;
-import ddf.minim.*;
 
 public class MySketch2 extends PApplet {
 
