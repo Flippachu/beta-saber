@@ -43,8 +43,7 @@
   - **Minim**: Asynchronous audio analysis and music visualizer
   - **ControlP5**: tutorial dashboard
 
-  The following Terminal libraries are used:
-  - **bash**: shell 
+  The following bash libraries are used:
   - **youtube-dl**: download off YouTube
   - **spotify-dl**: download off Spotify
   - **ffmpeg**: convert from m4a to mp3
