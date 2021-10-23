@@ -7,7 +7,7 @@
 
 # DESCRIPTION
 
-**beta-saber** is a beat saber knock-off made in Eclipse using the Processing core and bash. Beat maps are automatically generated using Minim. Songs are downloaded using Youtube-dl, Spotify-dl, and ffmpeg. The Spotify-web-API java wrapper is used in tandem with Spotify-dl.
+**beta-saber** is a beat saber knock-off made in Eclipse using the Processing core and bash. Beat maps are automatically generated using Minim. Songs are downloaded using youtube-dl, spotify-dl, and FFmpeg. The spotify-web-API java wrapper is used in tandem with spotify-dl.
 
 # INSTALLATION
 
@@ -21,7 +21,7 @@
 
 **ffmpeg**
 
-- Please visit https://github.com/FFmpeg/FFmpeg for information on installing ffmpeg.
+- Please visit https://github.com/FFmpeg/FFmpeg for information on installing FFmpeg.
 
 **spotify-web-api-java**
 
@@ -46,7 +46,7 @@
   The following bash libraries are used:
   - **youtube-dl**: download off YouTube
   - **spotify-dl**: download off Spotify
-  - **ffmpeg**: convert from m4a to mp3
+  - **FFmpeg**: convert from m4a to mp3
 
   The following Java libraries are used:
   - **Color**: color
