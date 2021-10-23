@@ -70,7 +70,6 @@ public class SearchTracksExample {
 	return together;
   }
 
-
 //  public static void searchItem_Async() {
 //    try {
 //      final CompletableFuture<SearchResult> searchResultFuture = searchItemRequest.executeAsync();
