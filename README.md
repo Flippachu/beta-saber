@@ -1,6 +1,10 @@
 # beta-saber 
 
-https://user-images.githubusercontent.com/85639422/138577567-37e4717f-9e7d-4cd2-a1d5-f629b407b76c.mov
+
+https://user-images.githubusercontent.com/85639422/138578336-ae4afe1c-cc1b-4e2f-a76f-88484b736f59.mp4
+
+
+
 
 - [DESCRIPTION](#description)
 - [INSTALLATION](#installation)
